@@ -1,14 +1,32 @@
-title: ""
-description: ""
+title: "Martyn Steel"
+description: "Postgraduate Research in Computational Geophysics at the University of Edinburgh"
+taglong: Postgraduate Researcher
+tagshort: PhD Student
 baseurl: ""
-url: ""
+url: https://martynsteel.github.io
+permalink: /:title/
+repo: https://github.com/MartynSteel/martynsteel.github.io
+
+# Author settings
+author:
+  name: Martyn Steel
+  email: martyn.steel@ed.ac.uk
+
+# Social media settings
+
+social:
+  github: MartynSteel
+  linkedin: martyn-steel
+
+academic:
+  orcid: 0000-0002-3140-9170
+  google_scholar: https://scholar.google.com/citations?user=ReLhnkYAAAAJ&hl=en
+
+# Build settings
 
 exclude:
-  - demo/
-  - cvless.gemspec
   - LICENSE
   - README.md
-  - screenshot.png
 
 plugins:
   - jekyll-feed
@@ -18,6 +36,7 @@ plugins:
   - jekyll-sitemap
 
 sass:
+  sass_dir: _sass
   style: compressed
   sourcemap: never
 

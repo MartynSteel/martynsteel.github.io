@@ -5,7 +5,7 @@ title: Home
 
 # Background
 
-I am a postgraduate researcher, currently modelling the geophysical responses of CO<sub>2</sub> to anisotropy and attenuation.
+I am a postgraduate researcher, currently modelling the geophysical responses of CO<sub>2</sub> to frequency-dependent anisotropy and attenuation.
 
 I am currently at the University of Edinburgh, funded by an EPSRC iCase Studentship for the project "<i>Integrating rock physics, geomechanics and survey design for carbon capture and storage</i>".
 

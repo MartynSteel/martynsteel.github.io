@@ -9,6 +9,9 @@
       {% if site.academic.orcid %}
       <a class="particles-icon" href="https://orcid.org/{{ site.academic.orcid }}">{% include svg/orcid.svg %}</a>
       {% endif %}
+      {% if site.academic.google-scholar %}      
+      <a class="particles-icon" href="{{ site.academic.google-scholar}}">{% include svg/open_book.svg %}</a>
+      {% endif %}
       {% if site.social.x %}
       <a class="particles-icon" href="{{ site.social.x }}">{% include svg/x.svg %}</a>
       {% endif %}

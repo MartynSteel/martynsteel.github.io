@@ -13,9 +13,7 @@ tagshort: Jekyll theme
 author:
   name: Place Holder
   email: username@domain.com
-photo: assets/files/photo.jpg
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+  photo: /assets/images/MartynS_1_HiRes.jpg
 
 # profile links
 profile:
